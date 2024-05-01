@@ -1,0 +1,35 @@
+@font-face {
+
+  font-family: 'Roboto';
+
+  src: url('https://cdn.glitch.global/a30d4695-38ed-423f-9a6f-895a79c2268f/Roboto-Regular.ttf?v=1688572595221') format('truetype');
+
+}
+* {
+  padding: 0px;
+  margin: 0px;
+  font-family: 'Roboto';
+}
+
+.menu {
+  color: white;
+  background-color: red;
+  padding: 15px 10px;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  font-weight: 600;
+  font-size: 25px;
+  padding: 0px 5px;
+}
+
+.cont {
+  margin-top: 60px;
+  height: 200px;
+  width: 320px;
+  border-radius: 5px;
+  border: 2px solid silver;
+}
